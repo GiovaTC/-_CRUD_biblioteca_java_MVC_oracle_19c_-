@@ -25,4 +25,4 @@ public class LibroController {
     public void eliminarLibro(int id) {
         dao.eliminar(id);
     }
-}   
+}
