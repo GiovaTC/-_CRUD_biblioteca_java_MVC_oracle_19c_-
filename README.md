@@ -5,6 +5,8 @@
 
 <img width="532" height="210" alt="image" src="https://github.com/user-attachments/assets/12c5bc83-8060-48dd-a44f-6c9064b160b7" />    
 
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/3329d71d-2392-4e07-b287-542191976885" />    
+
 A continuación se presenta una **solución completa, profesional y alineada con el patrón Modelo–Vista–Controlador (MVC)**, desarrollada en **Java (IntelliJ IDEA)**, que implementa un **CRUD de una Biblioteca** con persistencia en **Oracle Database 19c** mediante **JDBC**.
 
 La solución está pensada para **uso académico o técnico**, con separación clara de responsabilidades y código listo para ejecución.
