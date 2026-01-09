@@ -18,4 +18,4 @@ public class ConexionOracle {
             throw new RuntimeException("error de conexion oracle", e);
         }
     }
-}   
+}
