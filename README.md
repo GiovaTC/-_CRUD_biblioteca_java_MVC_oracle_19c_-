@@ -1,7 +1,9 @@
 # -_CRUD_biblioteca_java_MVC_oracle_19c_- :.
 # CRUD Biblioteca – Java MVC + Oracle 19c .
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23c65fc5-57a0-463b-a5d6-3d7deb227af0" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23c65fc5-57a0-463b-a5d6-3d7deb227af0" />      
+
+<img width="532" height="210" alt="image" src="https://github.com/user-attachments/assets/12c5bc83-8060-48dd-a44f-6c9064b160b7" />    
 
 A continuación se presenta una **solución completa, profesional y alineada con el patrón Modelo–Vista–Controlador (MVC)**, desarrollada en **Java (IntelliJ IDEA)**, que implementa un **CRUD de una Biblioteca** con persistencia en **Oracle Database 19c** mediante **JDBC**.
 
